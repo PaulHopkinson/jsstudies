@@ -1,0 +1,13 @@
+Class Notes 4/3/2017
+
+(4) Datatypes
+	Numbers
+	Booleans
+	Strings
+	Arrays & Objects
+
+Variables and Literals
+Comparisons (a >= b)
+Conditionals (if/then etc.)
+Logical Operators (takes comparisons and converts them to Boolean values)
+
