@@ -11,3 +11,11 @@ Comparisons (a >= b)
 Conditionals (if/then etc.)
 Logical Operators (takes comparisons and converts them to Boolean values)
 
+var jim = 100 means the scope = limited (cannot be called in console)
+jim = 100 means the scope is global (can be called in console by typing joe)
+
+() = parameters for variables
+
+NaN = Not a Number (it could be a string, it could be Boolean, etc)
+
+CSS is due Monday 4/10 by 6pm!
